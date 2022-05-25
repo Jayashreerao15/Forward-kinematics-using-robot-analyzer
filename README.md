@@ -1,7 +1,8 @@
 # Forward-kinematics-using-robo-analyzer
 
 ## AIM: 
-To analyze the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer and polt the graph for link cordinates and joint angles
+To analyze the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer and polt the graph for link cordinates and joint angles.
+
 ### COMPONENTS REQUIRED:
 1.Robo analyzer software  
 
@@ -39,39 +40,34 @@ ai for the link length. Once I’ve obtained them, I can just plug them in to th
 
 ### SIMULATION 
  
+#### 6 DOF
 
 https://user-images.githubusercontent.com/74660507/170173778-fc013f2c-51ff-4b6e-bd8f-15332d07056a.mp4
 
+#### 4 DOF
+
+https://user-images.githubusercontent.com/70213227/170174635-804432ee-87a5-4573-a9ab-0882b537c72b.mp4
+
 
  
- ### PLOT 
+### PLOT 
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+#### 6 DOF
 
- 
- 
+![image](https://user-images.githubusercontent.com/70213227/170174722-a81f96da-e92a-4d68-b0fd-79c50bcf3919.png)
 
+![image](https://user-images.githubusercontent.com/70213227/170174755-15719cb2-af08-48f0-bb13-87c5115be669.png)
 
+![image](https://user-images.githubusercontent.com/70213227/170174849-142fab7b-61d8-43c1-bae7-41643aeafc85.png)
 
+#### 4 DOF
+
+![image](https://user-images.githubusercontent.com/70213227/170175025-07bb37e4-f842-497f-b014-13bc88d8da6d.png)
+
+![image](https://user-images.githubusercontent.com/70213227/170175000-7e58a8da-dd7e-4143-8d1f-d80911fabb30.png)
+
+![image](https://user-images.githubusercontent.com/70213227/170175056-8718371a-7f53-450c-a45b-8a2bf52956ea.png)
 
 
-
-
-
-
-
-
-
-
-
-### RESULTS :  
+### RESULTS : 
+Thus, the forward kinematics using DH paramerters for a 4 and 6 dof robot using roboanalyzer is analysed and the graph for link cordinates and joint angles is plotted.
